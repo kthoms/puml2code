@@ -19,6 +19,7 @@ $ npm i -g puml2code
 Development installation
 ```bash
 $ git clone https://github.com/jupe/puml2code.git
+$ cd puml2code
 $ npm i
 $ bin/puml2code -h
 ```
